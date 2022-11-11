@@ -1,0 +1,79 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am gkoin76 on github.
+  * I am heroro (https://keybase.io/heroro) on keybase.
+  * I have a public key whose fingerprint is A494 51DD F6D8 8A9A F0D4  3EDC 3550 B43B 0BBA 3460
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013d312d0440ecca2ac94c38ac28600233bd9cfabb70247b0973a8ba851ea066610a",
+      "fingerprint": "a49451ddf6d88a9af0d43edc3550b43b0bba3460",
+      "host": "keybase.io",
+      "key_id": "3550b43b0bba3460",
+      "kid": "01013d312d0440ecca2ac94c38ac28600233bd9cfabb70247b0973a8ba851ea066610a",
+      "uid": "b458047dd0f798de803e41ca2ddd3119",
+      "username": "heroro"
+    },
+    "service": {
+      "name": "github",
+      "username": "gkoin76"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1668135926,
+  "expire_in": 157680000,
+  "prev": "08ecea135419c16ba7fb12726d5c28a72aa9722c728c139f8a36bf0cf1400923",
+  "seqno": 3,
+  "tag": "signature"
+}
+```
+
+with the key [A494 51DD F6D8 8A9A F0D4  3EDC 3550 B43B 0BBA 3460](https://keybase.io/heroro), yielding the signature:
+
+```
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIbAnicrVJrSFRBGN21slqKCqwIgmSwKNpi7p2797H2oCgioadF0WuZ110vm3f1
+7q6PbEsRwR9pVBQlWBGYZgVhFNRSWQqGWUQv6R0ZkfoneheRzRX7EfSz+TPMmXPO
+nDl87WOHeXzezp+ZHXOeN3V4b13fk/DQ/NSXMkCirBQEy0CED258O+OxeChiMRAE
+UIISYkiSGVQUyCnFMqaGQpGOqayrEMoIEWZQExOiQVnRCDQ0hHWC9YDEMVRVVYIY
++IFp2WHuFDiWHRe2WDGUgMSYqTJdxwY2IVMQZxQFApAoiEBCMFJUKIR50ZirEOEI
+jvG5VlRg4hAajPcP/n/OnRi0I0pAh4rGGDQ1Q2dch4grkjBlTDwiGS4xxh0b53PB
+zuNO1ImCpB8IrMii3K116C5sxfMS5G9+OBK1bE11BfHSAhcp5iQ0pA0Ry2aiPCEp
+4k7MitogKAkmjVuuWFJVXUIBQ1b9gJcUWA4PWS4joKk6FMsPChxe5Daic8qxoCqS
+QSWVYM0kkqzJKguIRrAmY2xoskw1WacSMkwdI5WYkJqSAqEhI+D+ptCOgiASMXFY
+WMassI3jCYeD5I3WLcM9Xp8nfUSaO1Qe3+jxf0bt4aqRv2ZPfHa3peVDbn3V24vB
+F5GGrOqscSd7vtut09ZfunS85v6nH8/9ka7Nr7u2nBh7XjuyFPTOSKautpXgXQfB
+lb5RuXu+jznU/WY6mzpl8s51Z2MDmaHKU4tZdl+d1VTVfv+ct6zEfJaT8XlNVnr1
+7Y0bcLEWW3Gn+6M/ryu78UJzTe3+gdU53obaCY3XWsuXVj/aPTu1fua34OO61Pyf
+m/ZW9q7dt005ndM2786TnjPL66cbSxbBjGPpszLojmUNaYVvSzuHxzfWFSfj75KT
+iisul55N9j99lej70PluQf/WGmjO+3q04teBwysfvKRpvv7yjpbUioU3ux8F+97f
+8zW/yEDzJyi/AQ0pRVQ=
+=ok7I
+-----END PGP MESSAGE-----
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/heroro
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id heroro
+```
